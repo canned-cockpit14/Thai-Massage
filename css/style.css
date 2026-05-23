@@ -64,18 +64,6 @@ em { font-style: italic; font-weight: 400; color: #f3efe7; }
 }
 .main-nav a:hover, .main-nav a.active { opacity: 1; color: #fff; }
 
-.search-btn {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  font-size: 10px;
-  letter-spacing: .22em;
-  text-transform: uppercase;
-  color: #d4d1c9;
-  opacity: .8;
-}
-.search-btn:hover { opacity: 1; }
-
 .side-socials {
   position: fixed;
   right: 18px;
